@@ -13,5 +13,6 @@ main() {
   var list2 = ['amal', 'athul', 'sayooj', 'vyshak'];
   list1.addAll(list2);
   print(list1);
-  print(list1.sublist(0,3));
-  print(list1.)
+  print(list1.sublist(0, 3));
+  print(list1);
+}

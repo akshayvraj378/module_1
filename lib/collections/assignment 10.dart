@@ -13,6 +13,4 @@ main() {
   var list2 = ['amal', 'athul', 'sayooj', 'vyshak'];
   list1.addAll(list2);
   print(list1);
-  list1.shuffle();
-  print(list1);
-}
+  list1.shuffle();}
